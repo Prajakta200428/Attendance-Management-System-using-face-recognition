@@ -1,5 +1,5 @@
 # Attendance-Management-System-using-face-recognition
-# Attendance Management System
+
 
 This project is a **Face Recognition-based Attendance Management System**. It allows users to register students, capture their images, and store their details for attendance tracking. The system also provides a graphical user interface (GUI) for ease of use.
 
